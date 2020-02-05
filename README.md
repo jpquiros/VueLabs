@@ -1,2 +1,0 @@
-# VueLabs
-Created with CodeSandbox
