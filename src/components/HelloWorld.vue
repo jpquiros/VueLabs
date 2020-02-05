@@ -18,7 +18,7 @@
         >eslint</a>
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Miroservices Links</h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
@@ -34,6 +34,9 @@
       </li>
       <li>
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
+      </li>
+      <li>
+        <a href="https://microserviceshub.com" target="_blank" rel="noopener">Hub</a>
       </li>
     </ul>
     <h3>Ecosystem</h3>
