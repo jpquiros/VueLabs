@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Installed CLI Plugins..</h3>
     <ul>
       <li>
         <a
@@ -18,7 +18,7 @@
         >eslint</a>
       </li>
     </ul>
-    <h3>Miroservices Links</h3>
+    <h3>Microservices Links</h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
