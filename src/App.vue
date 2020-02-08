@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img width="30%" src="./assets/microservices.png">
+    <img width="40%" src="./assets/microservices.png">
     <HelloWorld msg="Welcome"/>
   </div>
 </template>

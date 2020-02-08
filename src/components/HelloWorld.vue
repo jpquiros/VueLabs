@@ -4,19 +4,19 @@
     <h3>Microservices Links</h3>
     <ul>
       <li>
-        <a href="#" target="_blank" rel="noopener">Core Docs</a>
+        <a href="#" target="_self" rel="noopener">Contact us</a>
       </li>
       <li>
-        <a href="#" target="_blank" rel="noopener">Forum</a>
+        <a href="#" target="_self" rel="noopener">Forum</a>
       </li>
       <li>
-        <a href="#" target="_blank" rel="noopener">Community Chat</a>
+        <a href="#" target="_self" rel="noopener">Community Chat</a>
       </li>
       <li>
-        <a href="#" target="_blank" rel="noopener">Twitter</a>
+        <a href="#" target="_self" rel="noopener">Twitter</a>
       </li>
       <li>
-        <a href="#" target="_blank" rel="noopener">News</a>
+        <a href="#" target="_self" rel="noopener">News</a>
       </li>
       <li>
         <a href="https://microserviceshub.com" target="_blank" rel="noopener">Hub</a>
