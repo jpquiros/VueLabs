@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to my Test" />
+    <img width="30%" src="./assets/microservices.png">
+    <HelloWorld msg="Welcome"/>
   </div>
 </template>
 
@@ -22,7 +22,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #fff;
   margin-top: 60px;
 }
 </style>
